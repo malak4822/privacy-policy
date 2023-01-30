@@ -1,5 +1,3 @@
-\[data-custom-class='body'\], \[data-custom-class='body'\] \* { background: transparent !important; } \[data-custom-class='title'\], \[data-custom-class='title'\] \* { font-family: Arial !important; font-size: 26px !important; color: #000000 !important; } \[data-custom-class='subtitle'\], \[data-custom-class='subtitle'\] \* { font-family: Arial !important; color: #595959 !important; font-size: 14px !important; } \[data-custom-class='heading\_1'\], \[data-custom-class='heading\_1'\] \* { font-family: Arial !important; font-size: 19px !important; color: #000000 !important; } \[data-custom-class='heading\_2'\], \[data-custom-class='heading\_2'\] \* { font-family: Arial !important; font-size: 17px !important; color: #000000 !important; } \[data-custom-class='body\_text'\], \[data-custom-class='body\_text'\] \* { color: #595959 !important; font-size: 14px !important; font-family: Arial !important; } \[data-custom-class='link'\], \[data-custom-class='link'\] \* { color: #3030F1 !important; font-size: 14px !important; font-family: Arial !important; word-break: break-word !important; }
-
 **PRIVACY NOTICE**
 
   
@@ -262,8 +260,4 @@ Poland
 
   
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please submit a request form by clicking [here](https://app.termly.io/notify/c7fde510-d719-44a7-957f-b08d2dafc667).
-
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
-
-This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
+Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it.
