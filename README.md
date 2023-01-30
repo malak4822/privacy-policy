@@ -1,4 +1,4 @@
-# privacy-policy_wstdsqltime
+# privacy policy Wasted Time In School
 Privacy Policy to mobile app
 
 PRIVACY NOTICE
