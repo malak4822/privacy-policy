@@ -1,4 +1,4 @@
-# Privacy policy | PRIVACY NOTICE | Wasted Time In School
+# PRIVACY POLICY | Wasted Time In School
 Privacy Policy to mobile app
 
 Last updated January 30, 2023
