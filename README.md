@@ -1,11 +1,11 @@
-# PRIVACY POLICY | Wasted Time In School
+# PRIVACY POLICY | KacApp
 Privacy Policy to mobile app
 
 Last updated January 30, 2023
 
 This privacy notice for Malaqmpany ("Company," "we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
-Download and use our mobile application (Time Wasted In School), or any other application of ours that links to this privacy notice
+Download and use our mobile application (KacApp), or any other application of ours that links to this privacy notice
 
 Engage with us in other related ways, including any sales, marketing, or events
 
